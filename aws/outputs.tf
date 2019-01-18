@@ -1,5 +1,5 @@
-output "login url" {
-  value = "http://corrigan-ptfe-demo.hashidemos.io:8800"
+output "login_url" {
+  value = "http://your-namespace-demo.hashidemos.io:8800"
 }
 
 output "password" {
