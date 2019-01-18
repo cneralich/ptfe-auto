@@ -29,7 +29,7 @@
     "gcs_credentials": {},
     "gcs_project": {},
     "hostname": {
-        "value": "corrigan-ptfe-demo.hashidemos.io"
+        "value": "your-namespace-demo.hashidemos.io"
     },
     "installation_type": {
         "value": "poc"
