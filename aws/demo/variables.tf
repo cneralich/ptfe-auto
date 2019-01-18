@@ -1,0 +1,10 @@
+variable "namespace" {}
+variable "aws_instance_type" {}
+variable "ssh_key_name" {}
+variable "ssh_key_path" {}
+variable "owner" {}
+variable "ttl" {}
+variable "subnet_id" {}
+variable "vpc_security_group_ids" {}
+variable "license_path" {}
+variable "hashidemos_zone_id" {}
